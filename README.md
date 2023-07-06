@@ -9,4 +9,4 @@ Gradient of the mse function:
 
 $\frac{∂ MSE}{∂ w} = \frac{1 \cdot 2}{n}({Y - Xw}) \cdot-X$
 
-The number of model features is selected in line 34 (and in line 62 for an example of work)
+The number of model features is selected in line 34 (and in line 63 for an example of work)
